@@ -9,7 +9,7 @@
     "react-scripts": "2.1.5",
     "redux": "^4.0.1",
     "redux-saga": "^1.0.5",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
